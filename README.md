@@ -13,7 +13,7 @@ I'm Ayoub HAMOU, a passionate student from morocco.
 <a href="https://codeforces.com/profile/ahamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahamou" height="30" width="40" /></a>
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
   
 </p>
 
@@ -22,4 +22,4 @@ I'm Ayoub HAMOU, a passionate student from morocco.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoubhamou&show_icons=true&theme=gotham" alt="ayoubhamou" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoubhamou&show_icons=true&theme=gotham" width="300" alt="ayoubhamou" />
