@@ -22,4 +22,4 @@ I'm Ayoub HAMOU, a passionate student from morocco.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoubhamou&show_icons=true&theme=gotham" width="300" alt="ayoubhamou" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoubhamou&show_icons=true&theme=gotham" width="400" alt="ayoubhamou" />
