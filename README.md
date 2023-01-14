@@ -27,5 +27,8 @@ I'm Ayoub HAMOU, a passionate student from morocco.
   <br />
   <br />
   <br />
+  <br />
+  <br />
   
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/honeytones/ahamou" alt="ahamou's 42 stats" /></a>
+  
+<a align="center"> href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/honeytones/ahamou" alt="ahamou's 42 stats" /></a>
