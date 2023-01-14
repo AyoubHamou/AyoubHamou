@@ -23,4 +23,9 @@ I'm Ayoub HAMOU, a passionate student from morocco.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayoubhamou&show_icons=true&theme=gotham" width="300" alt="ayoubhamou" />
   <br />
   <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/honeytones/ahamou" alt="ahamou's 42 stats" /></a>
