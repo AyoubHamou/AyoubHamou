@@ -2,7 +2,7 @@
 
 I'm Ayoub HAMOU, a passionate student from morocco.
 
--  I’m currently learning 👨‍💻 **C programming** at <a href="https://www.1337.ma/en/" alt = "1337" target="blank">1337<a/>
+-  I’m currently learning 👨‍💻 **programming** at <a href="https://www.1337.ma/en/" alt = "1337" target="blank">1337<a/>
 
 -  If you want to reach me 📫 **ayoubhamou1337@gmail.com**
 
