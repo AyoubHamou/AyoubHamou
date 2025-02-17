@@ -8,9 +8,8 @@ I'm Ayoub HAMOU, a passionate student from morocco.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayoubhamou00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayoubhamou00" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayoub-hamou-9742321b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub hamou" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahamou" height="30" width="40" /></a>
+
 <br />
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
